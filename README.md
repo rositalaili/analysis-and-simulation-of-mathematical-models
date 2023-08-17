@@ -1,0 +1,3 @@
+# Analysis and Simulation of Mathematical Models for Learning Dynamics of Carbon Capture in Forests 
+
+Mathematical modeling in studying the dynamics of carbon capture in  forests is a representation of the phenomenon by considering the dynamics of living biomass, intrinsic growth of biomass, and burned areas, under different environmental humidity conditions. The model obtained is in the form of a system of non-linear differential equations which then produces three equilibrium points, namely the equilibrium point in the case of no volume of living biomass and the burned forest area, the equilibrium point in the case of no burned forest area and the equilibrium point in the case of a burned forest area.
